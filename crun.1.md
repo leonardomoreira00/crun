@@ -258,7 +258,7 @@ Kill all the containers that satisfy the specified regex.
 
 ## PS OPTIONS
 
-crun [global options] ps [options]
+crun [global options] ps [options] CONTAINER
 
 **--format**=_FORMAT_
 Specify the output format.  It must be either `table` or `json`.
